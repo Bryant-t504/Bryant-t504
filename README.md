@@ -19,15 +19,6 @@ I combine design + development to create high-performance digital experiences.
 
 ---
 
-### 🔹 E-commerce Platform
-- Online store for jewellery devices
-- Product UI, cart system, responsive design
-
-👉 Live Demo: [link]  
-👉 GitHub: [link]
-
----
-
 ### 🔹 Portfolio Website (Brian Wasike)
 - Personal portfolio showcasing projects and design work
 - Clean UI + responsive layout
